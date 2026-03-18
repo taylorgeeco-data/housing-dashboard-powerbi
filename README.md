@@ -14,7 +14,10 @@ This Power BI dashboard analyzes U.S. housing affordability by examining the rel
 - EXCEL/ CSV Data
 - Power BI
 - Data visualization techniques
-  
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 --
 ## Files Included 
 - Power BI dashboard (.pbix)
