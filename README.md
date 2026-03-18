@@ -15,7 +15,7 @@ This Power BI dashboard analyzes housing affordability across U.S. cities using 
 - Data visualization techniques
 
 ## Dashboard Preview
-![Dashboard](visuals.dashboard.png) 
+![Dashboard](dashboard.png) 
 
 --
 ## Files Included 
