@@ -27,3 +27,7 @@ This Power BI dashboard analyzes U.S. housing affordability by examining the rel
   
 ## Business Insights 
 This analysis demonstrates the ability to transform raw housing data into actionable insights using SQL and Power BI, supporting data driven decision making around affordability and market trends.
+
+## Data Source 
+Dataset sourced from academic coursework (statistics class), containing U.S. housing prices, household income, and regional indicators.
+Data was cleaned, transformed into SQL views, and used to build a Power BI dashboard analyzing housing affordability trends. 
